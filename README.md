@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi! I'm Harshkumar Patel👋
 
-<!--
-**Harshpatel0712/Harshpatel0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** passionate about building scalable web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌍 Originally from the land of India, currently living in Frankfurt,Germany.
+- 💻 I enjoy backend, frontend, cloud, and everything in between!
+- 🍜 Foodie | 🎬 Movie lover | ♟️ Chess enthusiast
+- 🌱 Currently learning: 
+- 🔭 Working on: 
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, TypeScript, Tailwind, Next.js  
+**Backend:** Node.js, Django, Spring Boot  
+**Database:** Postgres, MongoDB  
+**DevOps:** Docker, GitHub Actions, Azure, AWS  
+**Tools:** VSCode, Postman, Figma
+
